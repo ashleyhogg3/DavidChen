@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project David Chen",
+"productVersion": "0.1",
+"dataUrl": "David Chen Built Project.data.unityweb",
+"wasmCodeUrl": "David Chen Built Project.wasm.code.unityweb",
+"wasmFrameworkUrl": "David Chen Built Project.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.37f1"
+}
